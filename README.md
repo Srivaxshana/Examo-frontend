@@ -38,4 +38,8 @@ npm install
 ### 3️⃣ Run Development Server
 ```bash
 npm run dev
-
+```
+### AdminLogin
+```baxh
+Username: admin
+Password: admin123
