@@ -31,11 +31,11 @@ git clone https://github.com/Srivaxshana/Examo-frontend.git
 cd examo-frontend
 
 ```
-### Install Dependencies
+### 2️⃣ Install Dependencies
 ```bash
 npm install
 ```
-###  Run Development Server
+### 3️⃣ Run Development Server
 ```bash
 npm run dev
 
