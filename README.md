@@ -1,7 +1,7 @@
 # Examo Frontend  
 
 The **frontend** of Examo – a web-based **Digital Exam Platform** that provides students and admins with a seamless online exam experience.  
-Built using **React (Vite)** for fast performance and modern UI.  
+Built using **React (Vite)**  and **Bootstrap** for fast performance and modern UI.  
 
 ---
 
