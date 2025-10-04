@@ -29,3 +29,13 @@ Built using **React (Vite)** for fast performance and modern UI.
 ```bash
 git clone https://github.com/Srivaxshana/Examo-frontend.git
 cd examo-frontend
+
+```
+### Install Dependencies
+```bash
+npm install
+```
+###  Run Development Server
+```bash
+npm run dev
+
